@@ -1,0 +1,15 @@
+<assembly>
+    <id>src</id>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+    <files>
+        <file>
+            <source>pom.xml</source>
+        </file>
+    </files>
+
+
+</assembly>
+
